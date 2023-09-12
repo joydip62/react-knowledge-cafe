@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover_img": "https://i.ibb.co/6PkfGRv/1.jpg",
+    "author": "John Doe",
+    "author_img": "https://i.ibb.co/F8ncDZW/boy1.png",
+    "title": "Lorem Ipsum Dolor Sit Amet",
+    "post_date": "2023-09-12",
+    "reading_time": 5,
+    "hashtag": ["#LoremIpsum, #FakeData, #JSON"]
+  },
+  {
+    "id": 2,
+    "cover_img": "https://i.ibb.co/mBPhDrj/2.png",
+    "author": "Jane Smith",
+    "author_img": "https://i.ibb.co/D1GpxCs/boy2.jpg",
+    "title": "Consectetur Adipiscing Elit",
+    "post_date": "2023-09-11",
+    "reading_time": 8,
+    "hashtag": ["#Consectetur, #FakeData, #JSON"]
+  },
+  {
+    "id": 3,
+    "cover_img": "https://i.ibb.co/fkFPkz4/3.png",
+    "author": "Alice Johnson",
+    "author_img": "https://i.ibb.co/CJMmLpr/girl1.jpg",
+    "title": "Sed Do Eiusmod Tempor Incididunt",
+    "post_date": "2023-09-10",
+    "reading_time": 6,
+    "hashtag": ["#SedDoEiusmod, #FakeData, #JSON"]
+  },
+  {
+    "id": 4,
+    "cover_img": "https://i.ibb.co/vstBJsy/4.jpg",
+    "author": "Bob Williams",
+    "author_img": "https://i.ibb.co/3fXtVWz/girl2.jpg",
+    "title": "Ut Labore Et Dolore Magna Aliqua",
+    "post_date": "2023-09-09",
+    "reading_time": 7,
+    "hashtag": ["#UtLaboreEtDolore, #FakeData, #JSON"]
+  },
+  {
+    "id": 5,
+    "cover_img": "https://i.ibb.co/vstBJsy/4.jpg",
+    "author": "Eve Davis",
+    "author_img": "https://i.ibb.co/3fXtVWz/girl2.jpg",
+    "title": "Excepteur Sint Occaecat Cupidatat",
+    "post_date": "2023-09-08",
+    "reading_time": 4,
+    "hashtag": ["#ExcepteurSint, #FakeData, #JSON"]
+  }
+]
